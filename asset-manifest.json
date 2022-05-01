@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/smb/static/css/main.264f0512.css",
-    "main.js": "/smb/static/js/main.17c5ff3d.js",
+    "main.css": "/smb/static/css/main.68088677.css",
+    "main.js": "/smb/static/js/main.ab4dd94b.js",
     "static/media/bg.png": "/smb/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/electric.jpg": "/smb/static/media/electric.98d365b049cf11dde5f3.jpg",
     "static/media/door3.jpg": "/smb/static/media/door3.93c5826657243e08684b.jpg",
@@ -11,17 +11,17 @@
     "static/media/door4.jpg": "/smb/static/media/door4.e4fde0b0f25f56faa611.jpg",
     "static/media/Locksmith.jpg": "/smb/static/media/Locksmith.4d6ab1564fc332058fc3.jpg",
     "static/media/murch.jpeg": "/smb/static/media/murch.c6a176d660580a515fb1.jpeg",
-    "static/media/sbmlogo.png": "/smb/static/media/sbmlogo.70b2d4e5e8eb70af8053.png",
+    "static/media/log.jpg": "/smb/static/media/log.7552ba04d2f2aa45c2f5.jpg",
     "static/media/electrical.png": "/smb/static/media/electrical.9aaf76352f293275dafb.png",
     "static/media/door2.jpeg": "/smb/static/media/door2.240b8d1035c56e2bbf45.jpeg",
     "static/media/service.svg": "/smb/static/media/service.32eaaee6ac0585efac7a91b0a8f4e04c.svg",
     "static/media/key.svg": "/smb/static/media/key.66106cf0eac9f074f2e217c09b30e5ab.svg",
     "index.html": "/smb/index.html",
-    "main.264f0512.css.map": "/smb/static/css/main.264f0512.css.map",
-    "main.17c5ff3d.js.map": "/smb/static/js/main.17c5ff3d.js.map"
+    "main.68088677.css.map": "/smb/static/css/main.68088677.css.map",
+    "main.ab4dd94b.js.map": "/smb/static/js/main.ab4dd94b.js.map"
   },
   "entrypoints": [
-    "static/css/main.264f0512.css",
-    "static/js/main.17c5ff3d.js"
+    "static/css/main.68088677.css",
+    "static/js/main.ab4dd94b.js"
   ]
 }
